@@ -21,4 +21,7 @@
   .game{
     margin-top: 50px;
   }
+   #msg{
+    font-size: 5vmin;
+  }
 }
