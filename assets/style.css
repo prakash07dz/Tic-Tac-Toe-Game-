@@ -39,7 +39,7 @@ h1{
     background-color: #415a77;
 }
 .btn{
-    margin: 20px;
+    margin: 35px;
     padding: 1rem;
     font-size: 1.25rem;
     background-color: #0d1b2a;
@@ -66,5 +66,5 @@ h1{
 .footer {
     position: absolute;
     bottom: 0;
-    left: 15px;
+    left: 18px;
 }
