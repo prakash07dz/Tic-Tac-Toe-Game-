@@ -24,4 +24,9 @@
    #msg{
     font-size: 5vmin;
   }
+  .footer {
+    position: absolute;
+    bottom: 0;
+    left: 18px;
+}
 }
