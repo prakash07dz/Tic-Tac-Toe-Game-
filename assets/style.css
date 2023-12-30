@@ -63,8 +63,4 @@ h1{
 .hide{
     display: none;
 }
-.footer {
-    position: absolute;
-    bottom: 0;
-    left: 18px;
-}
+
